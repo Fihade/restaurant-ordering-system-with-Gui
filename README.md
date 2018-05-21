@@ -19,17 +19,12 @@
 
 ---
 
-![](D:\IJProject\订餐系统\订餐系统\pic\login.png)
+![](https://www.notion.so/file/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8bffa66e-5de2-4e67-a65a-57a231a3a13c%2Flogin.png)
 
 - 订单管理相关界面
 
-![](D:\IJProject\订餐系统\订餐系统\pic\mangnerfood.png)
+![](https://www.notion.so/file/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F37102833-6140-4c5c-8929-0877c3bd81ef%2Forder.png)
 
-![](D:\IJProject\订餐系统\订餐系统\pic\addfood.png)
+![](https://www.notion.so/file/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd5561e0c-154f-496c-a2e0-ca255ba25f68%2Faddfood.png)
 
-+ 用户点菜系列
-
-  选择菜并算出对应价格
-
-  ![](D:\IJProject\订餐系统\订餐系统\pic\order.png)
-
+![](https://www.notion.so/file/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd993c734-624e-4827-ba75-e4beacb9a998%2Fmangnerfood.png)
