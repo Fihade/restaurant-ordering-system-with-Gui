@@ -19,7 +19,7 @@
 
 ---
 
-![Image text](pic/login.jpg) 
+![Image text](pic/login.png) 
 
 - 订单管理相关界面
 
