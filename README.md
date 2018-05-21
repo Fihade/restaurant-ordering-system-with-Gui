@@ -21,15 +21,19 @@
 
 ![Image text](pic/login.png) 
 
++ 注册用户
+
+  ![Image text](pic/signup.png)
+
 - 订单管理相关界面
+- ![Image text](pic/mangnerfood.png) 
 
-![](D:\IJProject\订餐系统\订餐系统\pic\mangnerfood.png)
-
-![](D:\IJProject\订餐系统\订餐系统\pic\addfood.png)
+ 
 
 + 用户点菜系列
 
   选择菜并算出对应价格
 
-  ![](D:\IJProject\订餐系统\订餐系统\pic\order.png)
+  ![Image text](pic/order.png)
 
+  
